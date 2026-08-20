@@ -1,0 +1,20 @@
+{
+  "brandName": "Questdrium",
+  "tagline": "NEXT-GEN TECHNOLOGIES",
+  "logoUrl": "",
+  "faviconUrl": "",
+  "heroTitle": "Building next-gen solutions for a",
+  "heroAccent": "smarter tomorrow.",
+  "heroDescription": "We turn ambitious ideas into powerful, human-centered digital experiences that move businesses and people forward.",
+  "primaryButton": "Explore our work",
+  "primaryLink": "#projects",
+  "secondaryButton": "Learn more",
+  "secondaryLink": "#about",
+  "projects": [
+    { "name": "SpaceForge", "type": "Interactive game", "status": "LIVE", "image": "" },
+    { "name": "Gozuos", "type": "Travel platform", "status": "LIVE", "image": "" },
+    { "name": "Chatiom", "type": "Social intelligence", "status": "BETA", "image": "" },
+    { "name": "IVR System", "type": "Voice operations", "status": "LIVE", "image": "" },
+    { "name": "Windows Apps", "type": "Desktop tools", "status": "LIVE", "image": "" }
+  ]
+}

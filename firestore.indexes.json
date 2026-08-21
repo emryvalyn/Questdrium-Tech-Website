@@ -1,0 +1,12 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "jobApplications",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "submittedAt", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
